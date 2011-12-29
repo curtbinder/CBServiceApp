@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CBServiceAppActivity!</string>
+    <string name="app_name">CBServiceApp</string>
+    <string name="title">This app listens for the CBService to broadcast a message to display.  CBService must be running to get data.</string>
+
+</resources>
